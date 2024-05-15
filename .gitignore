@@ -128,6 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Authentication Files
+authentication.json
+
 # Spyder project settings
 .spyderproject
 .spyproject
